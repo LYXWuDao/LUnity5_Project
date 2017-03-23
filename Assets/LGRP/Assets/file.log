@@ -1,3 +1,1123 @@
-[File Log]: this is log
-[File Log]: this is log
-[File Log]: this is log
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: NullReferenceException: Object reference not set to an instance of an object
+LUnity.Game.UI.SLUIManager.LoadPageInfo (System.Collections.Generic.List`1 pages) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:55)
+LCGameMain.Start () (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+System.Collections.Generic.List`1[LUnity.Game.UI.CLUIPage].get_Item (Int32 index) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Collections.Generic/List.cs:633)
+LUnity.Game.UI.SLUIManager.OpenPage (Int32 pageId) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:116)
+LCGameMain.Start () (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "InitGame/Canvas/uiLogin/Button"
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:23)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: NullReferenceException: Object reference not set to an instance of an object
+LUnity.Game.UI.SLUIManager.OpenPage (Int32 pageId) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:125)
+LCGameMain.Start () (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: NullReferenceException: Object reference not set to an instance of an object
+LUnity.Game.UI.SLUIManager.OpenPage (Int32 pageId) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:125)
+LCGameMain.Start () (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: NullReferenceException: Object reference not set to an instance of an object
+LUnity.Game.UI.SLUIManager.OpenPage (Int32 pageId) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:125)
+LCGameMain.Start () (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: NullReferenceException: Object reference not set to an instance of an object
+LUnity.Game.UI.SLUIManager.OpenPage (Int32 pageId) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:125)
+LCGameMain.Start () (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: Assets/LUnity5_Framework/LGameUtil/SLUnityUtil.cs(38,27): warning CS0219: The variable `slConfig' is assigned but its value is never used
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:34)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:38)
+
+[File Log]: There are inconsistent line endings in the 'Assets/LScripts/LCGameMain.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+
+[File Log]: Assets/LUnity5_Framework/LGameUtil/SLUnityUtil.cs(38,27): warning CS0219: The variable `slConfig' is assigned but its value is never used
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:35)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:35)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:35)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:35)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent().  Alternatively, your script can inherit from ScriptableObject or no base class at all
+UnityEngine.MonoBehaviour:.ctor()
+LUnity.Game.UI.CLPageEntity:.ctor() (at Assets/LUnity5_Framework/LGameUI/CLPageEntity.cs:27)
+CLPageInfo:GetPageInfos() (at Assets/LScripts/LUI/CLPageInfo.cs:27)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:35)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:121)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:39)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:24)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: There are inconsistent line endings in the 'Assets/LScripts/LUI/CLUiLogin.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+
+[File Log]: Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs(81,24): warning CS0219: The variable `pageObj' is assigned but its value is never used
+
+[File Log]: Assets/LUnity5_Framework/LGameUtil/SLUnityUtil.cs(38,27): warning CS0219: The variable `slConfig' is assigned but its value is never used
+
+[File Log]: Assets/LUnity5_Framework/LGameUtil/SLUnityUtil.cs(222,23): warning CS0219: The variable `trans' is assigned but its value is never used
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:53)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:81)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:LoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:81)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: InvalidOperationException: This method cannot be used on a streamed scene AssetBundle.
+UnityEngine.AssetBundle.LoadAsset (System.String name, System.Type type) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/AssetBundleBindings.gen.cs:174)
+UnityEngine.AssetBundle.LoadAsset (System.String name) (at C:/buildslave/unity/build/artifacts/generated/common/runtime/AssetBundleBindings.gen.cs:148)
+LUnity.Game.Resource.SLResourceManager.LoadResource (System.String assetPath, System.String assetName) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:73)
+LUnity.Game.Scene.SLScenesManager.OpenScene (Int32 sceId) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:81)
+CLUiLogin.OnClick () (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) (at C:/buildslave/unity/build/Runtime/Export/UnityEvent.cs:153)
+UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) (at C:/buildslave/unity/build/Runtime/Export/UnityEvent.cs:634)
+UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) (at C:/buildslave/unity/build/Runtime/Export/UnityEvent.cs:769)
+UnityEngine.Events.UnityEvent.Invoke () (at C:/buildslave/unity/build/Runtime/Export/UnityEvent_0.cs:53)
+UnityEngine.UI.Button.Press () (at C:/buildslave/unity/build/Extensions/guisystem/UnityEngine.UI/UI/Core/Button.cs:35)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/buildslave/unity/build/Extensions/guisystem/UnityEngine.UI/UI/Core/Button.cs:44)
+UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/buildslave/unity/build/Extensions/guisystem/UnityEngine.UI/EventSystem/ExecuteEvents.cs:52)
+UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) (at C:/buildslave/unity/build/Extensions/guisystem/UnityEngine.UI/EventSystem/ExecuteEvents.cs:269)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:42)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:82)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:82)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 场景打开失败！！
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:87)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:82)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:82)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 场景打开失败！！
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:87)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 场景打开失败！！
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:90)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: Resource file has already been unloaded.
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadScene(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:118)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 场景打开失败！！
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:90)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 场景打开失败！！
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:97)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: Resource file has already been unloaded.
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: Resource file has already been unloaded.
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 场景打开失败！！
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:97)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LCGameMain:Start() (at Assets/LScripts/LCGameMain.cs:44)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = scene/scelevel1.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource name = SceneLevel1
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:AsyncLoadScene(CLResourceEntity) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:147)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:85)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Log]: load resource path = ui/uilogin.data
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:54)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Log]: load resource name = uiLogin
+UnityEngine.Debug:Log(Object)
+LUnity.Game.Util.SLUnityLog:Log(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:56)
+LUnity.Game.Resource.SLResourceManager:SyncLoadAssetBundle(String, String, AssetBundle[]&) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:55)
+LUnity.Game.Resource.SLResourceManager:SyncLoadResource(String, String) (at Assets/LUnity5_Framework/LGameResource/SLResourceManager.cs:88)
+LUnity.Game.UI.SLUIManager:OpenPage(Int32) (at Assets/LUnity5_Framework/LGameUI/SLUIManager.cs:120)
+LUnity.Game.Scene.<OpenScene>c__AnonStorey0:<>m__0(CLResourceEntity) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:106)
+LUnity.Game.Resource.<StartLoadScene>c__Iterator0:MoveNext() (at Assets/LUnity5_Framework/LGameResource/CLAsyncLoadScene.cs:55)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[File Log]: [LGame Error]: click 
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:25)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: [LGame Error]: 该场景已经打开!!
+UnityEngine.Debug:LogError(Object)
+LUnity.Game.Util.SLUnityLog:Error(String) (at Assets/LUnity5_Framework/LGameUtil/SLUnityLog.cs:80)
+LUnity.Game.Scene.SLScenesManager:OpenScene(Int32) (at Assets/LUnity5_Framework/LGameScenes/SLScenesManager.cs:74)
+CLUiLogin:OnClick() (at Assets/LScripts/LUI/CLUiLogin.cs:29)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[File Log]: Resource file has already been unloaded.
+

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 239767822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e090ec8431fe6dadddee0cb4c06148c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7fb4d8105c9bb42677983cf44cf75c9c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc90d14d3ae398145be34779edbfd4aa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/config.prefab
+Dependencies: []

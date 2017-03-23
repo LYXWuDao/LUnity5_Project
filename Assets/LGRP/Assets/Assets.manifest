@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1597597727
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/uilogin.data
+      Dependencies: {}
+    Info_1:
+      Name: config.data
+      Dependencies: {}
+    Info_2:
+      Name: scene/scelevel1.data
+      Dependencies: {}
